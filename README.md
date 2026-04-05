@@ -14,12 +14,12 @@
 
 ## Pinned Repos
 
-| Repo | Description | Tech | Stats |
-|------|-------------|------|-------|
-| **[cursor-auto-resume](https://github.com/thelastbackspace/cursor-auto-resume)** | Auto-resumes Cursor when rate-limited | JavaScript | ⭐ 256+ |
-| **[traceperf](https://github.com/thelastbackspace/traceperf)** | Console performance tracking with ASCII flame graphs | TypeScript | ⭐ 125+ |
-| **[d3vx](https://github.com/d3vx-com/d3vx)** | AI terminal in Rust — 126K LOC, 42 tools, 7-phase pipeline, parallel agent orchestration | Rust | Open Source |
-| **[Karwade](https://github.com/thelastbackspace/karwade)** | AI-Powered LinkedIn Assistant — timelines, HPC, automation | AI | In Progress |
+| Repo | Description | Language | Stats |
+|------|-------------|----------|-------|
+| **[cursor-auto-resume](https://github.com/thelastbackspace/cursor-auto-resume)** | Auto-clicks "resume the conversation" in Cursor IDE when rate limits hit | JavaScript | ⭐ 256 · 🍴 47 |
+| **[d3vx](https://github.com/d3vx-com/d3vx)** | AI-assisted terminal — background isolated tasks, parallel agent orchestration, 7-phase pipeline | Rust | Open Source |
+| **[traceperf](https://github.com/thelastbackspace/traceperf)** | Console performance tracking for Node.js. ASCII art execution flows, bottleneck detection, structured logs | TypeScript | ⭐ 125 · 🍴 1 |
+| **[weirdopress](https://github.com/thelastbackspace/weirdopress)** | No APIs. No Cloud. Just Pure On-Server Compression — A WordPress Plugin That Keeps It Local | PHP | Open Source |
 
 ---
 
