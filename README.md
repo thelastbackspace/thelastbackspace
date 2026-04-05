@@ -14,11 +14,11 @@
 
 ## Pinned Repos
 
-| Repo | Description | Language | Stats |
+| Repo | Description | Language | Stars |
 |------|-------------|----------|-------|
-| **[cursor-auto-resume](https://github.com/thelastbackspace/cursor-auto-resume)** | Auto-clicks "resume the conversation" in Cursor IDE when rate limits hit | JavaScript | ⭐ 256 · 🍴 47 |
+| **[cursor-auto-resume](https://github.com/thelastbackspace/cursor-auto-resume)** | Auto-clicks "resume the conversation" in Cursor IDE when rate limits hit | JavaScript | ⭐ 256 |
 | **[d3vx](https://github.com/d3vx-com/d3vx)** | AI-assisted terminal — background isolated tasks, parallel agent orchestration, 7-phase pipeline | Rust | Open Source |
-| **[traceperf](https://github.com/thelastbackspace/traceperf)** | Console performance tracking for Node.js. ASCII art execution flows, bottleneck detection, structured logs | TypeScript | ⭐ 125 · 🍴 1 |
+| **[traceperf](https://github.com/thelastbackspace/traceperf)** | Console performance tracking for Node.js. ASCII art execution flows, bottleneck detection, structured logs | TypeScript | ⭐ 125 |
 | **[weirdopress](https://github.com/thelastbackspace/weirdopress)** | No APIs. No Cloud. Just Pure On-Server Compression — A WordPress Plugin That Keeps It Local | PHP | Open Source |
 
 ---
