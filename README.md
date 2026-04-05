@@ -32,33 +32,25 @@
 | **2023 – 2025** | **Product Manager, RelayZen / MediCodio** | Launched company website in 7 days, designed immigration product from scratch |
 | **2020 – 2024** | **Founder, We Switched Studio** | 100+ clients including Nuutjob & Streax, built websites/apps, managed branding & digital marketing |
 | **2021 – 2023** | **Product Designer, Keel (Toronto)** | First employee — built entire product design, developed website from scratch, helped secure funding |
-| **2019 – 2020** | **Growth Hacker, CloudxLab** | Grew revenue from $3K → $100K/month in 6 months |
+| **2019 – 2020** | **Growth Hacker, CloudxLab** | Grew revenue from $3K → $100K/mo in 6 months |
 | **2018 – 2019** | **Co-Founder, Gamersback** | Built a gamer-centric platform from scratch — technical lead, design lead, and marketing |
 
 ---
 
-## Tech Stack
+## Skills & Expertise
 
-<div align="center">
+**Product** — Product Strategy · User Research · Stakeholder Management · Roadmap Planning · Go-to-Market · A/B Testing · KPIs & ROI · Agile/Scrum
 
-**Languages:** Rust · TypeScript · JavaScript · PHP · Dart
+**Design** — UI/UX Design · Design Systems · Prototyping · Product Design
 
-**Stacks & Runtime:** MERN · Node.js · Flutter
+**Development** — HTML/CSS/JavaScript · Python · TypeScript · React · Node.js · Express · MongoDB · MySQL · Flutter · REST APIs · No-Code Tools · Rust
 
-**Databases:** PostgreSQL · SQLite · Redis
-
-**Frameworks:** React · Next.js · Express · Ratatui · Django
-
-**Design & Creative:** Figma · Adobe Premiere · Photoshop · Hyperrealistic pen art
-
-**Tools:** Git · Docker · GitHub Actions · LSP
-
-</div>
+**Tools** — Claude Code · Cursor · Figma · VS Code · Adobe Creative Suite · Video Editing · Canva · Google Analytics · Webflow · WordPress
 
 ---
 
 <div align="center">
 
-[🐦 @thelastbackspace](https://x.com/thelastbackspace)
+[💼 LinkedIn](https://linkedin.com/in/shubhwadekar)
 
 </div>
