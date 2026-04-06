@@ -6,7 +6,7 @@
 
 **Open-source builder** — 126K+ lines of Rust, creator of tools with 256+ stars.
 
-**Serial founder** — 2nd time founder (Gamersback → We Switched Studio → d3vx), former Product Designer at [Keel](https://keel.ai) (Toronto), first employee at RelayZen.
+**Serial founder** — 2nd time founder (Gamersback → We Switched Studio → d3vx), former Product Designer at Keel, first employee at RelayZen.
 
 </div>
 
