@@ -4,10 +4,6 @@
 
 **CTO & Co-Founder at [XMobility.ai](https://xmobility.ai)** — building AI-powered visa automation that handles 50+ visa types across 8+ countries with 99.5% document accuracy.
 
-**Open-source builder** — 126K+ lines of Rust, creator of tools with 256+ stars.
-
-**Serial founder** — 2nd time founder (Gamersback → We Switched Studio → d3vx), former Product Designer at Keel, first employee at RelayZen.
-
 </div>
 
 ---
