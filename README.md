@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Shubh Wadekar: CTO & Co-Founder @ XMobility, Product Designer, Security Researcher" width="100%" src="assets/banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-green-dark.svg">
+  <img alt="Shubh Wadekar: CTO & Co-Founder @ XMobility, Product Designer, Security Researcher" width="100%" src="assets/banner-green-light.svg">
 </picture>
 
 <div align="center">
@@ -10,7 +10,7 @@
 </a>
 
 Bridging high-performance engineering, AI automation and pixel-perfect UX.
-I take products from a blank Figma file to production, find security holes before attackers do, and fix other people's bugs for fun. 📍 Bengaluru
+I take products from a blank Figma file to production, find security holes before attackers do, and fix other people's bugs for fun.<br/>Based in Bengaluru, India.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhwadekar1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thelastbackspace)
@@ -20,7 +20,7 @@ I take products from a blank Figma file to production, find security holes befor
 
 ---
 
-## 🌍 Open source contributions
+## Open source
 
 I fix real, reported bugs in projects people depend on, with a regression test for every change.
 
@@ -31,31 +31,33 @@ I fix real, reported bugs in projects people depend on, with a regression test f
 | <img src="https://github.com/tursodatabase.png" width="16"/> **[tursodatabase/turso](https://github.com/tursodatabase/turso/pull/11412)** | core/time: return NULL instead of panicking when time_date overflows |
 <!-- OSS:END -->
 
-<sub>👉 More on the way. <a href="https://github.com/search?q=author%3Athelastbackspace+is%3Apr+-user%3Athelastbackspace+-org%3AXmobility-ai&type=pullrequests">All my pull requests</a></sub>
+<sub>More on the way. <a href="https://github.com/search?q=author%3Athelastbackspace+is%3Apr+-user%3Athelastbackspace+-org%3AXmobility-ai&type=pullrequests">All my pull requests</a></sub>
 
 ---
 
-## 🛡️ Security research
+## Security research
 
 Found and privately reported critical vulnerabilities in **10+ apps and websites** in two weeks, including exposed customer PII, a flaw that let anyone trigger refunds on other customers' orders, and a way to unlock electric bikes without access. Each one was disclosed responsibly and fixed with the company; several were rewarded with bug bounties and recognised by the founders and leadership.
 
 ---
 
-## 🚀 Things I built
+## Things I built
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🌐 **[XMobility](https://xmobility.ai)** | AI suite for global mobility, visa to payroll: Immigration, EOR, HRMS and Payroll on one shared record. A no-code workflow engine runs any visa or process in any country, an AI agent reads documents and fills forms, and an MCP server lets users manage cases from Claude. **Live with paying customers.** | TypeScript, AI, MCP |
-| 🦊 **[Crawlfox](https://crawlfox.io)** | Web scraping product with real users. Shipped in 3 months, **90%+ success rate**. | Scraping, automation |
-| 🤖 **[cursor-auto-resume](https://github.com/thelastbackspace/cursor-auto-resume)** ![stars](https://img.shields.io/github/stars/thelastbackspace/cursor-auto-resume?style=flat-square&label=%E2%98%85&color=2ea043) | First open-source tool to handle Cursor IDE rate limits automatically. Found the DOM triggers by digging into the VS Code fork. | JavaScript |
-| 📊 **[traceperf](https://github.com/thelastbackspace/traceperf)** ![stars](https://img.shields.io/github/stars/thelastbackspace/traceperf?style=flat-square&label=%E2%98%85&color=2ea043) | Console performance tracking for Node.js: ASCII execution flows, bottleneck detection, structured logs. | TypeScript |
-| ⚡ **[d3vx](https://github.com/d3vx-com/d3vx)** | AI-assisted terminal with isolated background tasks, parallel agent orchestration and a 7-phase pipeline. | Rust, Tauri |
-| 📦 **[weirdopress](https://github.com/thelastbackspace/weirdopress)** | On-server image compression for WordPress. No APIs, no cloud. | PHP |
-| 🦎 **[zig-npm-ports](https://github.com/thelastbackspace/zig-npm-ports)** | Idiomatic Zig ports of small npm packages (semver, ms, camelcase, pluralize…). | Zig |
+| Product | What it does |
+|---|---|
+| **[XMobility](https://xmobility.ai)** | AI suite for global mobility, visa to payroll: Immigration, EOR, HRMS and Payroll on one shared record. A no-code workflow engine runs any visa or process in any country, an AI agent reads documents and fills forms, and an MCP server lets users manage cases from Claude. Live with paying customers. |
+| **[Crawlfox](https://crawlfox.io)** | Web scraping product with real users. Shipped in 3 months, 90%+ success rate. |
+
+<p>
+<a href="https://github.com/thelastbackspace/cursor-auto-resume"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=thelastbackspace&repo=cursor-auto-resume&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9"><img width="49%" alt="cursor-auto-resume" src="https://github-readme-stats.vercel.app/api/pin/?username=thelastbackspace&repo=cursor-auto-resume&hide_border=true&title_color=2ea043&icon_color=2ea043"></picture></a>
+<a href="https://github.com/thelastbackspace/traceperf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=thelastbackspace&repo=traceperf&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9"><img width="49%" alt="traceperf" src="https://github-readme-stats.vercel.app/api/pin/?username=thelastbackspace&repo=traceperf&hide_border=true&title_color=2ea043&icon_color=2ea043"></picture></a>
+<a href="https://github.com/d3vx-com/d3vx"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=d3vx-com&repo=d3vx&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9"><img width="49%" alt="d3vx" src="https://github-readme-stats.vercel.app/api/pin/?username=d3vx-com&repo=d3vx&hide_border=true&title_color=2ea043&icon_color=2ea043"></picture></a>
+<a href="https://github.com/thelastbackspace/zig-npm-ports"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=thelastbackspace&repo=zig-npm-ports&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9"><img width="49%" alt="zig-npm-ports" src="https://github-readme-stats.vercel.app/api/pin/?username=thelastbackspace&repo=zig-npm-ports&hide_border=true&title_color=2ea043&icon_color=2ea043"></picture></a>
+</p>
 
 ---
 
-## 💼 Journey
+## Journey
 
 - **Co-Founder & CTO @ [XMobility](https://xmobility.ai)** · *Mar 2025 – now*
   Built the MVP alone in **30 days**, then led a team of two to production. First paying customer signed.
@@ -74,31 +76,20 @@ Found and privately reported critical vulnerabilities in **10+ apps and websites
 - **Co-Founder @ Gamersback** · *Apr 2018 – Apr 2019*
   Platform for gamers. Selected for pre-incubation at **NSRCEL, IIM Bangalore**.
 
-🎓 B.Tech, Information Technology · SRM University (2015 – 2019)
+B.Tech, Information Technology · SRM University (2015 – 2019)
 
 ---
 
-## 🛠️ Toolbox
+## Toolbox
 
-**Design** &nbsp;
-![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=white)
-![Design Systems](https://img.shields.io/badge/Design_Systems-1E1E1E?style=flat-square&logo=storybook&logoColor=white)
-![Product Strategy](https://img.shields.io/badge/Product_Strategy-1E1E1E?style=flat-square&logo=notion&logoColor=white)
-![User Research](https://img.shields.io/badge/User_Research-1E1E1E?style=flat-square&logo=googleanalytics&logoColor=white)
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,ts,react,nextjs,nodejs,rust,go,python,zig,mongodb,postgres,docker,tauri&theme=dark&perline=13">
+    <img alt="Figma, TypeScript, React, Next.js, Node.js, Rust, Go, Python, Zig, MongoDB, Postgres, Docker, Tauri" src="https://skillicons.dev/icons?i=figma,ts,react,nextjs,nodejs,rust,go,python,zig,mongodb,postgres,docker,tauri&theme=light&perline=13">
+  </picture>
+</p>
 
-**Code** &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**AI** &nbsp;
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+Design systems · Product strategy · User research · AI agents and MCP · Claude Code · Cursor
 
 ---
 
