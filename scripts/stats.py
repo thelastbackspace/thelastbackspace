@@ -174,3 +174,12 @@ def pr_links():
 
 
 pr_links()
+
+
+# CACHE-BUST: give the daily-generated images a dated version so GitHub's image cache refreshes.
+import datetime, re as _re
+_v = datetime.date.today().strftime("%Y%m%d")
+_p = "README.md"
+_s = open(_p).read()
+_s = _re.sub(r"(assets/(?:stats|contrib)-(?:dark|light)\.svg)\?v=\w+", r"\1?v=" + _v, _s)
+open(_p, "w").write(_s)

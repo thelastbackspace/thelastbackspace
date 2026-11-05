@@ -43,8 +43,8 @@ I take products from a blank Figma file to production, find security holes befor
 I fix real, reported bugs in projects people depend on, with a regression test for every change.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg?v=4">
-  <img alt="Merged open source contributions, with project, stars, pull request title and merge date" width="100%" src="assets/contrib-light.svg?v=4">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg?v=20261105">
+  <img alt="Merged open source contributions, with project, stars, pull request title and merge date" width="100%" src="assets/contrib-light.svg?v=20261105">
 </picture>
 
 <!-- PRLINKS:START -->
@@ -153,8 +153,8 @@ Design systems · Product strategy · User research · AI agents and MCP · Clau
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=4">
-  <img alt="GitHub stats: contributions, stars, repos, pull requests, merged in other projects" width="100%" src="assets/stats-light.svg?v=4">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=20261105">
+  <img alt="GitHub stats: contributions, stars, repos, pull requests, merged in other projects" width="100%" src="assets/stats-light.svg?v=20261105">
 </picture>
 
 <picture>
