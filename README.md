@@ -7,11 +7,12 @@
 </a>
 
 Bridging high-performance engineering, AI automation and pixel-perfect UX.
-I take products from a blank Figma file to production, and I like fixing other people's bugs too.
+I take products from a blank Figma file to production, find security holes before attackers do, and fix other people's bugs for fun. 📍 Bengaluru
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhwadekar1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thelastbackspace)
 [![XMobility](https://img.shields.io/badge/XMobility.ai-111111?style=for-the-badge&logo=rocket&logoColor=white)](https://xmobility.ai)
+[![Crawlfox](https://img.shields.io/badge/Crawlfox.io-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://crawlfox.io)
 
 </div>
 
@@ -30,10 +31,18 @@ I fix real, reported bugs in projects people depend on, with a regression test f
 
 ---
 
+## 🛡️ Security research
+
+Found and privately reported critical vulnerabilities in **10+ apps and websites** in two weeks, including exposed customer PII, a flaw that let anyone trigger refunds on other customers' orders, and a way to unlock electric bikes without access. Each one was disclosed responsibly and fixed with the company; several were rewarded with bug bounties and recognised by the founders and leadership.
+
+---
+
 ## 🚀 Things I built
 
 | Project | What it does | Stack |
 |---|---|---|
+| 🌐 **[XMobility](https://xmobility.ai)** | AI suite for global mobility, visa to payroll: Immigration, EOR, HRMS and Payroll on one shared record. A no-code workflow engine runs any visa or process in any country, an AI agent reads documents and fills forms, and an MCP server lets users manage cases from Claude. **Live with paying customers.** | TypeScript, AI, MCP |
+| 🦊 **[Crawlfox](https://crawlfox.io)** | Web scraping product with real users, built on custom browsers for speed and scale. Shipped in 3 months, **90%+ success rate**. | Custom browsers |
 | 🤖 **[cursor-auto-resume](https://github.com/thelastbackspace/cursor-auto-resume)** ![stars](https://img.shields.io/github/stars/thelastbackspace/cursor-auto-resume?style=flat-square&label=%E2%98%85&color=0e75b6) | First open-source tool to handle Cursor IDE rate limits automatically. Found the DOM triggers by digging into the VS Code fork. | JavaScript |
 | 📊 **[traceperf](https://github.com/thelastbackspace/traceperf)** ![stars](https://img.shields.io/github/stars/thelastbackspace/traceperf?style=flat-square&label=%E2%98%85&color=0e75b6) | Console performance tracking for Node.js: ASCII execution flows, bottleneck detection, structured logs. | TypeScript |
 | ⚡ **[d3vx](https://github.com/d3vx-com/d3vx)** | AI-assisted terminal with isolated background tasks, parallel agent orchestration and a 7-phase pipeline. | Rust, Tauri |
@@ -44,16 +53,24 @@ I fix real, reported bugs in projects people depend on, with a regression test f
 
 ## 💼 Journey
 
-- **CTO & Co-Founder @ [XMobility AI](https://xmobility.ai)** · *Mar 2025 – now*
-  AI platform that turns immigration workflows from days into minutes. Built the MVP alone in **30 days**; **99.5% automation accuracy** across **50+ visa types**.
-- **Founder @ Karwade** · *Jul 2024 – now*
-  AI LinkedIn posting and scheduling. Reverse-engineered LinkedIn's API calls to surface top-performing posts.
-- **Product Manager & Design Lead @ RelayZen & MediCodio** · *Jul 2023 – Feb 2025*
-  Rebuilt the whole frontend in **45 days**, cleared **400+ legacy bugs**, built design systems from scratch, and brought in AI workflows that made the team **20× faster**.
+- **Co-Founder & CTO @ [XMobility](https://xmobility.ai)** · *Mar 2025 – now*
+  Built the MVP alone in **30 days**, then led a team of two to production. First paying customer signed.
+- **Product Manager (contract) @ Automote.io** · *Apr 2026 – now*
+  Run [crawlfox.io](https://crawlfox.io) end to end. Shipped in **3 months** with a **90%+** success rate.
+- **Product Manager @ RelayZen** · *Jul 2023 – Feb 2025*
+  First employee. Designed the immigration case-management product from scratch and led its MVP build with three developers.
+- **Product Manager @ Medicodio** · *Jul 2023 – Feb 2025*
+  Rebuilt the app frontend in **45 days** with a two-person team, fixed **400+ legacy bugs**, and doubled website impressions to **140K a month**.
 - **Product Designer (first employee) @ Keel** · *May 2021 – Jul 2023*
-  Set up the design function from zero, designed the native app and built the website ahead of the seed round.
+  Built the design function from scratch and designed the app and website. The company went on to raise investment.
 - **Founder @ We Switched Studio** · *Feb 2020 – May 2024*
-  **100+ projects** as a design and tech partner: branding, UX/UI and app development.
+  Design and dev studio with **100+ client projects**, including Streax. Trained and hired students from rural backgrounds.
+- **Growth Hacker → Software Engineer @ CloudxLab** · *Jul 2019 – Nov 2020*
+  Helped grow revenue from **$3K to $100K a month** in six months, then moved into frontend engineering.
+- **Co-Founder @ Gamersback** · *Apr 2018 – Apr 2019*
+  Platform for gamers. Selected for pre-incubation at **NSRCEL, IIM Bangalore**.
+
+🎓 B.Tech, Information Technology · SRM University (2015 – 2019)
 
 ---
 
