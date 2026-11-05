@@ -29,8 +29,8 @@ I take products from a blank Figma file to production, find security holes befor
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
-  <img alt="neofetch-style card: CTO and Co-Founder at XMobility, product designer and security researcher based in Bengaluru, India. Stack: TypeScript, React, Next.js, Node.js, Rust, Go, Python, Zig, Postgres." width="100%" src="assets/about-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg?v=3">
+  <img alt="neofetch-style card: CTO and Co-Founder at XMobility, product designer and security researcher based in Bengaluru, India. Stack: TypeScript, React, Next.js, Node.js, Rust, Go, Python, Zig, Postgres." width="100%" src="assets/about-light.svg?v=3">
 </picture>
 
 <p align="center">
@@ -43,8 +43,8 @@ I take products from a blank Figma file to production, find security holes befor
 I fix real, reported bugs in projects people depend on, with a regression test for every change.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/merged-dark.svg">
-  <img alt="Terminal: recently merged pull requests in other projects" width="100%" src="assets/merged-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/merged-dark.svg?v=3">
+  <img alt="Terminal: recently merged pull requests in other projects" width="100%" src="assets/merged-light.svg?v=3">
 </picture>
 
 <!-- OSS:START -->
@@ -64,8 +64,8 @@ I fix real, reported bugs in projects people depend on, with a regression test f
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/security-dark.svg">
-  <img alt="Terminal: security disclosures summary" width="100%" src="assets/security-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/security-dark.svg?v=3">
+  <img alt="Terminal: security disclosures summary" width="100%" src="assets/security-light.svg?v=3">
 </picture>
 
 <sub>Found and privately reported critical vulnerabilities in 10+ apps and websites, including exposed customer PII, refunds triggerable on other customers' orders, and unlocking electric bikes without access. All disclosed responsibly and fixed; several rewarded with bug bounties and recognised by founders and leadership.</sub>
@@ -77,18 +77,16 @@ I fix real, reported bugs in projects people depend on, with a regression test f
 </picture>
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://xmobility.ai"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-xmobility-dark.svg">
-  <img alt="XMobility: AI suite for global mobility, visa to payroll. Live with paying customers. MVP in 30 days." width="100%" src="assets/card-xmobility-light.svg">
-</picture></a></td>
-<td width="50%" valign="top"><a href="https://crawlfox.io"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-crawlfox-dark.svg">
-  <img alt="Crawlfox: web scraping product with real users. Shipped in 3 months. 90%+ success rate." width="100%" src="assets/card-crawlfox-light.svg">
-</picture></a></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://xmobility.ai"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-xmobility-dark.svg?v=3">
+  <img alt="XMobility: AI suite for global mobility, visa to payroll. Live with paying customers. MVP in 30 days." width="49%" src="assets/card-xmobility-light.svg?v=3">
+</picture></a>
+<a href="https://crawlfox.io"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-crawlfox-dark.svg?v=3">
+  <img alt="Crawlfox: web scraping product with real users. Shipped in 3 months. 90%+ success rate." width="49%" src="assets/card-crawlfox-light.svg?v=3">
+</picture></a>
+</p>
 
 **XMobility** puts Immigration, EOR, HRMS and Payroll on one shared record. A no-code workflow engine runs any visa or process in any country, an AI agent reads documents and fills forms, and an MCP server lets users manage cases from Claude.
 
@@ -135,8 +133,8 @@ B.Tech, Information Technology · SRM University (2015 – 2019)
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
-    <img alt="Figma, TypeScript, React, Next.js, Node.js, Rust, Go, Python, Zig, MongoDB, Postgres, Docker, Tauri" width="100%" src="assets/skills-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg?v=3">
+    <img alt="Figma, TypeScript, React, Next.js, Node.js, Rust, Go, Python, Zig, MongoDB, Postgres, Docker, Tauri" width="100%" src="assets/skills-light.svg?v=3">
   </picture>
 </p>
 
