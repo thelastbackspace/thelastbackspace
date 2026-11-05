@@ -43,8 +43,8 @@ I take products from a blank Figma file to production, find security holes befor
 I fix real, reported bugs in projects people depend on, with a regression test for every change.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/merged-dark.svg?v=3">
-  <img alt="Terminal: recently merged pull requests in other projects" width="100%" src="assets/merged-light.svg?v=3">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg?v=1">
+  <img alt="Merged open source contributions, with project, stars, pull request title and merge date" width="100%" src="assets/contrib-light.svg?v=1">
 </picture>
 
 <sub>More on the way · <a href="https://github.com/search?q=author%3Athelastbackspace+is%3Apr+-user%3Athelastbackspace+-org%3AXmobility-ai&type=pullrequests">All my pull requests</a></sub>
