@@ -145,6 +145,41 @@ def card(t, c):
     return o
 
 
+TAGLINES = ["CTO & Co-Founder @ XMobility", "Product designer who ships code",
+            "Security researcher", "Open source contributor"]
+
+
+def tagline(t):
+    w, h, fs = 640, 40, 20
+    n = len(TAGLINES)
+    css = (f".l{{opacity:0;animation:cy {3 * n}s infinite}}.l0{{opacity:1}}"
+           "@keyframes cy{0%{opacity:0}2%{opacity:1}22.5%{opacity:1}25%{opacity:0}100%{opacity:0}}")
+    o = [svg_open(w, h, " / ".join(TAGLINES), css)]
+    for i, line in enumerate(TAGLINES):
+        tw = len(line) * fs * 0.6
+        x = (w - tw - 16) / 2
+        o.append(f'<g class="l l{i}" style="animation-delay:{3 * i}s"><text class="m" x="{x:.1f}" y="27" '
+                 f'font-size="{fs}" font-weight="500" fill="{t["acc_text"]}">{esc(line)}</text>'
+                 f'<rect class="k" x="{x + tw + 6:.1f}" y="10" width="10" height="21" rx="1" fill="{t["acc"]}"/></g>')
+    return o
+
+
+def footer(t):
+    w, h = W, 96
+    o = [svg_open(w, h, "Open to interesting problems · Bengaluru, India",
+                  ".p{animation:pu 2s ease-out infinite;transform-origin:center;transform-box:fill-box}"
+                  "@keyframes pu{0%{opacity:.6;transform:scale(1)}100%{opacity:0;transform:scale(2.6)}}"),
+         panel(t, 0, 0, w, h, glow_x=0.0, glow_y=0.5)]
+    cy = h / 2
+    o.append(f'<circle class="p" cx="{PAD + 6}" cy="{cy}" r="6" fill="{t["acc"]}"/>'
+             f'<circle cx="{PAD + 6}" cy="{cy}" r="6" fill="{t["acc"]}"/>')
+    o.append(f'<text class="s" x="{PAD + 26}" y="{cy + 7}" font-size="21" font-weight="700" '
+             f'fill="{t["text"]}">Open to interesting problems</text>')
+    o.append(f'<text class="m" x="{w - PAD}" y="{cy + 6}" text-anchor="end" font-size="17" '
+             f'fill="{t["muted"]}">Bengaluru, India</text>')
+    return o
+
+
 def divider(t):
     w, h = 900, 12
     return ['<svg xmlns="http://www.w3.org/2000/svg" width="900" height="12" viewBox="0 0 900 12">'
@@ -184,6 +219,8 @@ def main():
         for k, c in CARDS.items():
             write(f"{A}/card-{k}-{name}.svg", card(t, c))
         write(f"{A}/divider-{name}.svg", divider(t))
+        write(f"{A}/tagline-{name}.svg", tagline(t))
+        write(f"{A}/footer-{name}.svg", footer(t))
         src = f"{A}/skills-src-{name}.svg"
         icons = ICON_RE.findall(open(src).read())
         assert len(icons) == 13, (src, len(icons))

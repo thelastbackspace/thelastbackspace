@@ -159,3 +159,18 @@ for name, t in THEMES.items():
     write(f"assets/merged-{name}.svg", merged_svg(t))
     write(f"assets/contrib-{name}.svg", contrib_svg(t))
 print([hero] + items, len(prs), "merged rows")
+
+
+def pr_links():
+    """Rewrite the PRLINKS marker block in README.md with real-text links to each merged PR."""
+    import re
+    links = " · ".join(f'<a href="{p["html_url"]}">{esc(i["repo"])}#{p["number"]}</a>'
+                       for p, i in zip(prs, INFO))
+    block = f"<!-- PRLINKS:START -->\n<sub>{links}</sub>\n<!-- PRLINKS:END -->"
+    src = open("README.md").read()
+    new = re.sub(r"<!-- PRLINKS:START -->.*?<!-- PRLINKS:END -->", lambda m: block, src, flags=re.S)
+    if new != src:
+        open("README.md", "w").write(new)
+
+
+pr_links()

@@ -2,9 +2,31 @@
 
 One set of tokens and one panel primitive, so the banner, terminals, cards,
 stats and toolbox all share radii, borders, spacing, type and glow.
-System fonts only, CSS animation only, no external references.
+Fonts: Inter and JetBrains Mono (SIL OFL 1.1), subset to ASCII plus a few
+symbols and embedded as base64 @font-face so type is identical on every OS.
+System fonts stay in the stack as fallbacks. CSS animation only, no external
+references.
 """
+import base64
+import os
 from html import escape
+
+_FONT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fonts")
+
+
+def _face(family, fname, weight):
+    with open(os.path.join(_FONT_DIR, fname), "rb") as fh:
+        b64 = base64.b64encode(fh.read()).decode()
+    return (f"@font-face{{font-family:'{family}';font-weight:{weight};font-style:normal;"
+            f"src:url(data:font/woff2;base64,{b64}) format('woff2')}}")
+
+
+FONT_CSS = "".join([
+    _face("SW Inter", "Inter-Regular.woff2", 400),
+    _face("SW Inter", "Inter-Bold.woff2", 700),
+    _face("SW Mono", "JetBrainsMono-Regular.woff2", 400),
+    _face("SW Mono", "JetBrainsMono-Bold.woff2", 700),
+])
 
 THEMES = {
     "dark": dict(
@@ -27,10 +49,11 @@ HEADER = 44     # terminal title bar height
 PAD = 40        # horizontal content padding
 W = 1000        # standard full-width asset
 
-SANS = "ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-MONO = "ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace"
+SANS = "'SW Inter',ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+MONO = "'SW Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace"
 
 BASE_CSS = (
+    FONT_CSS +
     f".s{{font-family:{SANS}}}.m{{font-family:{MONO}}}"
     ".r{animation:f .6s ease-out backwards}@keyframes f{from{opacity:0}}"
     ".k{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}"
