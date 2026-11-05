@@ -12,9 +12,9 @@
 Bridging high-performance engineering, AI automation and pixel-perfect UX.
 I take products from a blank Figma file to production, find security holes before attackers do, and fix other people's bugs for fun.<br/>Based in Bengaluru, India.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhwadekar1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thelastbackspace)
-[![XMobility](https://img.shields.io/badge/XMobility.ai-111111?style=for-the-badge&logo=rocket&logoColor=white)](https://xmobility.ai)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950)](mailto:shubhwadekar1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3fb950)](https://linkedin.com/in/thelastbackspace)
+[![XMobility](https://img.shields.io/badge/XMobility.ai-0d1117?style=for-the-badge&logo=rocket&logoColor=3fb950)](https://xmobility.ai)
 
 </div>
 
