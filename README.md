@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:0e75b6&text=Shubh%20Wadekar&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=CTO%20%E2%80%A2%20Product%20Designer%20%E2%80%A2%20Security%20Researcher&descAlignY=60&descSize=16">
-  <img alt="Shubh Wadekar" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:e6f1fb,100:0e75b6&text=Shubh%20Wadekar&fontColor=0d1117&fontSize=46&fontAlignY=38&desc=CTO%20%E2%80%A2%20Product%20Designer%20%E2%80%A2%20Security%20Researcher&descAlignY=60&descSize=16">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Shubh Wadekar: CTO & Co-Founder @ XMobility, Product Designer, Security Researcher" width="100%" src="assets/banner-light.svg">
 </picture>
 
 <div align="center">
@@ -126,4 +126,3 @@ Found and privately reported critical vulnerabilities in **10+ apps and websites
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:e6f1fb,100:0e75b6" alt=""/>
