@@ -28,9 +28,28 @@ I take products from a blank Figma file to production, find security holes befor
 </picture>
 </p>
 
+## About
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <img alt="neofetch-style card: CTO and Co-Founder at XMobility, product designer and security researcher based in Bengaluru, India. Stack: TypeScript, React, Next.js, Node.js, Rust, Go, Python, Zig, Postgres." width="100%" src="assets/about-light.svg">
+</picture>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" width="100%" height="12" src="assets/divider-light.svg">
+</picture>
+</p>
+
 ## Open source
 
 I fix real, reported bugs in projects people depend on, with a regression test for every change.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/merged-dark.svg">
+  <img alt="Terminal: recently merged pull requests in other projects" width="100%" src="assets/merged-light.svg">
+</picture>
 
 <!-- OSS:START -->
 | Project | Pull request |
@@ -144,7 +163,7 @@ Design systems · Product strategy · User research · AI agents and MCP · Clau
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="GitHub stats" width="100%" src="assets/stats-light.svg">
+  <img alt="GitHub stats: contributions, stars, repos, pull requests, merged in other projects" width="100%" src="assets/stats-light.svg">
 </picture>
 
 <picture>
