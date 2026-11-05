@@ -5,20 +5,26 @@
 
 <div align="center">
 
-<a href="https://github.com/thelastbackspace">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2ea043&center=true&vCenter=true&width=620&lines=CTO+%26+Co-Founder+%40+XMobility.ai;Product+Designer+who+ships+code;AI+workflows%2C+0+%E2%86%92+1;Open+source+contributor" alt="Typing intro" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tagline-dark.svg">
+  <img alt="CTO & Co-Founder @ XMobility / Product designer who ships code / Security researcher / Open source contributor" width="640" src="assets/tagline-light.svg">
+</picture>
 
 Bridging high-performance engineering, AI automation and pixel-perfect UX.
 I take products from a blank Figma file to production, find security holes before attackers do, and fix other people's bugs for fun.<br/>Based in Bengaluru, India.
 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950)](mailto:shubhwadekar1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzNmYjk1MCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNC44OTJ2Ni4zMDN6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg==)](https://linkedin.com/in/thelastbackspace)
-[![XMobility](https://img.shields.io/badge/XMobility.ai-0d1117?style=for-the-badge&logo=rocket&logoColor=3fb950)](https://xmobility.ai)
+<samp><b>Now:</b> shipping XMobility · finding and disclosing security bugs · fixing bugs in open source</samp>
+
+<samp><a href="https://xmobility.ai">xmobility</a> · <a href="https://linkedin.com/in/thelastbackspace">linkedin</a> · <a href="mailto:shubhwadekar1@gmail.com">email</a></samp>
 
 </div>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" width="100%" height="12" src="assets/divider-light.svg">
+</picture>
+</p>
 
 ## Open source
 
@@ -33,23 +39,52 @@ I fix real, reported bugs in projects people depend on, with a regression test f
 
 <sub>More on the way. <a href="https://github.com/search?q=author%3Athelastbackspace+is%3Apr+-user%3Athelastbackspace+-org%3AXmobility-ai&type=pullrequests">All my pull requests</a></sub>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" width="100%" height="12" src="assets/divider-light.svg">
+</picture>
+</p>
 
 ## Security research
 
-Found and privately reported critical vulnerabilities in **10+ apps and websites** in two weeks, including exposed customer PII, a flaw that let anyone trigger refunds on other customers' orders, and a way to unlock electric bikes without access. Each one was disclosed responsibly and fixed with the company; several were rewarded with bug bounties and recognised by the founders and leadership.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/security-dark.svg">
+  <img alt="Terminal: disclosures in the last two weeks" width="100%" src="assets/security-light.svg">
+</picture>
 
----
+<sub>Found and privately reported critical vulnerabilities in 10+ apps and websites in two weeks, including exposed customer PII, refunds triggerable on other customers' orders, and unlocking electric bikes without access. All disclosed responsibly and fixed; several rewarded with bug bounties and recognised by founders and leadership.</sub>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" width="100%" height="12" src="assets/divider-light.svg">
+</picture>
+</p>
 
 ## Things I built
 
-| Product | What it does |
-|---|---|
-| **[XMobility](https://xmobility.ai)** | AI suite for global mobility, visa to payroll: Immigration, EOR, HRMS and Payroll on one shared record. A no-code workflow engine runs any visa or process in any country, an AI agent reads documents and fills forms, and an MCP server lets users manage cases from Claude. Live with paying customers. |
-| **[Crawlfox](https://crawlfox.io)** | Web scraping product with real users. Shipped in 3 months, 90%+ success rate. |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://xmobility.ai"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-xmobility-dark.svg">
+  <img alt="XMobility: AI suite for global mobility, visa to payroll. Live with paying customers. MVP in 30 days." width="100%" src="assets/card-xmobility-light.svg">
+</picture></a></td>
+<td width="50%" valign="top"><a href="https://crawlfox.io"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-crawlfox-dark.svg">
+  <img alt="Crawlfox: web scraping product with real users. Shipped in 3 months. 90%+ success rate." width="100%" src="assets/card-crawlfox-light.svg">
+</picture></a></td>
+</tr>
+</table>
 
+**XMobility** puts Immigration, EOR, HRMS and Payroll on one shared record. A no-code workflow engine runs any visa or process in any country, an AI agent reads documents and fills forms, and an MCP server lets users manage cases from Claude.
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" width="100%" height="12" src="assets/divider-light.svg">
+</picture>
+</p>
 
 ## Journey
 
@@ -59,6 +94,10 @@ Found and privately reported critical vulnerabilities in **10+ apps and websites
   Run [crawlfox.io](https://crawlfox.io) end to end. Shipped in **3 months** with a **90%+** success rate.
 - **Product Manager @ RelayZen** · *Jul 2023 – Feb 2025*
   First employee. Designed the immigration case-management product from scratch and led its MVP build with three developers.
+
+<details>
+<summary>Full journey</summary>
+
 - **Product Manager @ Medicodio** · *Jul 2023 – Feb 2025*
   Rebuilt the app frontend in **45 days** with a two-person team, fixed **400+ legacy bugs**, and doubled website impressions to **140K a month**.
 - **Product Designer (first employee) @ Keel** · *May 2021 – Jul 2023*
@@ -72,7 +111,14 @@ Found and privately reported critical vulnerabilities in **10+ apps and websites
 
 B.Tech, Information Technology · SRM University (2015 – 2019)
 
----
+</details>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" width="100%" height="12" src="assets/divider-light.svg">
+</picture>
+</p>
 
 ## Toolbox
 
@@ -85,7 +131,12 @@ B.Tech, Information Technology · SRM University (2015 – 2019)
 
 Design systems · Product strategy · User research · AI agents and MCP · Claude Code · Cursor
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" width="100%" height="12" src="assets/divider-light.svg">
+</picture>
+</p>
 
 <div align="center">
 
@@ -99,7 +150,4 @@ Design systems · Product strategy · User research · AI agents and MCP · Clau
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/thelastbackspace/thelastbackspace/output/snake.svg">
 </picture>
 
-<img src="https://komarev.com/ghpvc/?username=thelastbackspace&label=Profile%20views&color=2ea043&style=flat-square" alt="Profile views"/>
-
 </div>
-
