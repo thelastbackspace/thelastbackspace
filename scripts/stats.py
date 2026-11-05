@@ -76,7 +76,7 @@ def merged_svg(t):
     h = top + 46 + n * row + 34
     o = [svg_open(W, h, "Recently merged pull requests: " + "; ".join(
         f'{"/".join(p["repository_url"].split("/")[-2:])}: {p["title"]}' for p in prs)),
-         panel(t, 0, 0, W, h, title="recently-merged", glow_x=0.0, glow_y=1.0)]
+         panel(t, 0, 0, W, h, title="open source · recently merged", glow_x=0.0, glow_y=1.0)]
     o.append(f'<g class="r" style="animation-delay:.2s"><text class="m" x="{PAD}" y="{top}" font-size="17" '
              f'fill="{t["text"]}"><tspan fill="{t["acc_text"]}">$ </tspan>gh search prs --author {USER} --merged'
              f'</text></g>')

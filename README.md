@@ -28,8 +28,6 @@ I take products from a blank Figma file to production, find security holes befor
 </picture>
 </p>
 
-## About
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
   <img alt="neofetch-style card: CTO and Co-Founder at XMobility, product designer and security researcher based in Bengaluru, India. Stack: TypeScript, React, Next.js, Node.js, Rust, Go, Python, Zig, Postgres." width="100%" src="assets/about-light.svg">
@@ -41,8 +39,6 @@ I take products from a blank Figma file to production, find security holes befor
   <img alt="" width="100%" height="12" src="assets/divider-light.svg">
 </picture>
 </p>
-
-## Open source
 
 I fix real, reported bugs in projects people depend on, with a regression test for every change.
 
@@ -67,8 +63,6 @@ I fix real, reported bugs in projects people depend on, with a regression test f
 </picture>
 </p>
 
-## Security research
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/security-dark.svg">
   <img alt="Terminal: security disclosures summary" width="100%" src="assets/security-light.svg">
@@ -82,8 +76,6 @@ I fix real, reported bugs in projects people depend on, with a regression test f
   <img alt="" width="100%" height="12" src="assets/divider-light.svg">
 </picture>
 </p>
-
-## Things I built
 
 <table>
 <tr>
@@ -140,8 +132,6 @@ B.Tech, Information Technology · SRM University (2015 – 2019)
   <img alt="" width="100%" height="12" src="assets/divider-light.svg">
 </picture>
 </p>
-
-## Toolbox
 
 <p>
   <picture>

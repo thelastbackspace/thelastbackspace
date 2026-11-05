@@ -70,7 +70,7 @@ def about(t):
     step = 32
     h = top + step * len(rows) + 64
     o = [svg_open(w, h, "About: " + "; ".join(f"{k}: {v}" for k, v in rows)),
-         panel(t, 0, 0, w, h, title="neofetch", glow_x=0.1, glow_y=0.4)]
+         panel(t, 0, 0, w, h, title="about", glow_x=0.1, glow_y=0.4)]
     # monogram column
     o.append(f'<g class="r" style="animation-delay:.2s">{monogram(t, PAD + 6, top + 10, cell=14, gap=3)}</g>')
     kx, vx = 330, 440
@@ -94,7 +94,7 @@ def about(t):
 def security(t):
     w, h = W, 290
     o = [svg_open(w, h, "Security research summary"),
-         panel(t, 0, 0, w, h, title="security-research", glow_x=0.95, glow_y=1.0)]
+         panel(t, 0, 0, w, h, title="security research", glow_x=0.95, glow_y=1.0)]
     lines = [
         (0.3, f'<tspan fill="{t["acc_text"]}">$ </tspan>disclosures --summary', t["text"]),
         (1.0, f'<tspan fill="{t["muted"]}">&gt; </tspan>10+ apps reported', t["acc_text"]),
