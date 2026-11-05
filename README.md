@@ -41,7 +41,7 @@ Found and privately reported critical vulnerabilities in **10+ apps and websites
 | Project | What it does | Stack |
 |---|---|---|
 | 🌐 **[XMobility](https://xmobility.ai)** | AI suite for global mobility, visa to payroll: Immigration, EOR, HRMS and Payroll on one shared record. A no-code workflow engine runs any visa or process in any country, an AI agent reads documents and fills forms, and an MCP server lets users manage cases from Claude. **Live with paying customers.** | TypeScript, AI, MCP |
-| 🦊 **[Crawlfox](https://crawlfox.io)** | Web scraping product with real users. Shipped in 3 months, **90%+ success rate**. | TypeScript |
+| 🦊 **[Crawlfox](https://crawlfox.io)** | Web scraping product with real users. Shipped in 3 months, **90%+ success rate**. | Scraping, automation |
 | 🤖 **[cursor-auto-resume](https://github.com/thelastbackspace/cursor-auto-resume)** ![stars](https://img.shields.io/github/stars/thelastbackspace/cursor-auto-resume?style=flat-square&label=%E2%98%85&color=0e75b6) | First open-source tool to handle Cursor IDE rate limits automatically. Found the DOM triggers by digging into the VS Code fork. | JavaScript |
 | 📊 **[traceperf](https://github.com/thelastbackspace/traceperf)** ![stars](https://img.shields.io/github/stars/thelastbackspace/traceperf?style=flat-square&label=%E2%98%85&color=0e75b6) | Console performance tracking for Node.js: ASCII execution flows, bottleneck detection, structured logs. | TypeScript |
 | ⚡ **[d3vx](https://github.com/d3vx-com/d3vx)** | AI-assisted terminal with isolated background tasks, parallel agent orchestration and a 7-phase pipeline. | Rust, Tauri |
