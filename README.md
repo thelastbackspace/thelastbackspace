@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/thelastbackspace">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=CTO+%26+Co-Founder+%40+XMobility.ai;Product+Designer+who+ships+code;AI+workflows%2C+0+%E2%86%92+1;Open+source+contributor" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2ea043&center=true&vCenter=true&width=620&lines=CTO+%26+Co-Founder+%40+XMobility.ai;Product+Designer+who+ships+code;AI+workflows%2C+0+%E2%86%92+1;Open+source+contributor" alt="Typing intro" />
 </a>
 
 Bridging high-performance engineering, AI automation and pixel-perfect UX.
@@ -47,8 +47,8 @@ Found and privately reported critical vulnerabilities in **10+ apps and websites
 |---|---|---|
 | 🌐 **[XMobility](https://xmobility.ai)** | AI suite for global mobility, visa to payroll: Immigration, EOR, HRMS and Payroll on one shared record. A no-code workflow engine runs any visa or process in any country, an AI agent reads documents and fills forms, and an MCP server lets users manage cases from Claude. **Live with paying customers.** | TypeScript, AI, MCP |
 | 🦊 **[Crawlfox](https://crawlfox.io)** | Web scraping product with real users. Shipped in 3 months, **90%+ success rate**. | Scraping, automation |
-| 🤖 **[cursor-auto-resume](https://github.com/thelastbackspace/cursor-auto-resume)** ![stars](https://img.shields.io/github/stars/thelastbackspace/cursor-auto-resume?style=flat-square&label=%E2%98%85&color=0e75b6) | First open-source tool to handle Cursor IDE rate limits automatically. Found the DOM triggers by digging into the VS Code fork. | JavaScript |
-| 📊 **[traceperf](https://github.com/thelastbackspace/traceperf)** ![stars](https://img.shields.io/github/stars/thelastbackspace/traceperf?style=flat-square&label=%E2%98%85&color=0e75b6) | Console performance tracking for Node.js: ASCII execution flows, bottleneck detection, structured logs. | TypeScript |
+| 🤖 **[cursor-auto-resume](https://github.com/thelastbackspace/cursor-auto-resume)** ![stars](https://img.shields.io/github/stars/thelastbackspace/cursor-auto-resume?style=flat-square&label=%E2%98%85&color=2ea043) | First open-source tool to handle Cursor IDE rate limits automatically. Found the DOM triggers by digging into the VS Code fork. | JavaScript |
+| 📊 **[traceperf](https://github.com/thelastbackspace/traceperf)** ![stars](https://img.shields.io/github/stars/thelastbackspace/traceperf?style=flat-square&label=%E2%98%85&color=2ea043) | Console performance tracking for Node.js: ASCII execution flows, bottleneck detection, structured logs. | TypeScript |
 | ⚡ **[d3vx](https://github.com/d3vx-com/d3vx)** | AI-assisted terminal with isolated background tasks, parallel agent orchestration and a 7-phase pipeline. | Rust, Tauri |
 | 📦 **[weirdopress](https://github.com/thelastbackspace/weirdopress)** | On-server image compression for WordPress. No APIs, no cloud. | PHP |
 | 🦎 **[zig-npm-ports](https://github.com/thelastbackspace/zig-npm-ports)** | Idiomatic Zig ports of small npm packages (semver, ms, camelcase, pluralize…). | Zig |
@@ -105,16 +105,16 @@ Found and privately reported critical vulnerabilities in **10+ apps and websites
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thelastbackspace&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thelastbackspace&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0e75b6&icon_color=0e75b6">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thelastbackspace&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thelastbackspace&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2ea043&icon_color=2ea043">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thelastbackspace&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
-  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=thelastbackspace&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thelastbackspace&hide_border=true&background=0D1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
+  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=thelastbackspace&hide_border=true&ring=2ea043&fire=2ea043&currStreakLabel=2ea043">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastbackspace&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastbackspace&layout=compact&hide_border=true&langs_count=8&title_color=0e75b6">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastbackspace&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastbackspace&layout=compact&hide_border=true&langs_count=8&title_color=2ea043">
 </picture>
 
 <picture>
@@ -122,7 +122,7 @@ Found and privately reported critical vulnerabilities in **10+ apps and websites
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/thelastbackspace/thelastbackspace/output/snake.svg">
 </picture>
 
-<img src="https://komarev.com/ghpvc/?username=thelastbackspace&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=thelastbackspace&label=Profile%20views&color=2ea043&style=flat-square" alt="Profile views"/>
 
 </div>
 
