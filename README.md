@@ -47,19 +47,7 @@ I fix real, reported bugs in projects people depend on, with a regression test f
   <img alt="Terminal: recently merged pull requests in other projects" width="100%" src="assets/merged-light.svg?v=3">
 </picture>
 
-<details>
-<summary>All merged pull requests</summary>
-
-<!-- OSS:START -->
-| Project | Pull request |
-|---|---|
-| <img src="https://github.com/dora-rs.png" width="16"/> **[dora-rs/dora](https://github.com/dora-rs/dora/pull/4055)** | fix(node): coerce mixed-type JSON arrays in untyped integration-testing inputs |
-| <img src="https://github.com/tursodatabase.png" width="16"/> **[tursodatabase/turso](https://github.com/tursodatabase/turso/pull/11412)** | core/time: return NULL instead of panicking when time_date overflows |
-<!-- OSS:END -->
-
-</details>
-
-<sub>More on the way. <a href="https://github.com/search?q=author%3Athelastbackspace+is%3Apr+-user%3Athelastbackspace+-org%3AXmobility-ai&type=pullrequests">All my pull requests</a></sub>
+<sub>More on the way · <a href="https://github.com/search?q=author%3Athelastbackspace+is%3Apr+-user%3Athelastbackspace+-org%3AXmobility-ai&type=pullrequests">All my pull requests</a></sub>
 
 <p align="center">
 <picture>

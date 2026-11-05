@@ -17,7 +17,7 @@ jobs:
       - name: Update README
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: bash scripts/update-oss.sh && python3 scripts/stats.py
+        run: python3 scripts/stats.py
       - name: Commit
         run: |
           if ! git diff --quiet README.md assets; then
