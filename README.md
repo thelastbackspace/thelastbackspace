@@ -52,10 +52,10 @@ I fix real, reported bugs in projects people depend on, with a regression test f
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/security-dark.svg">
-  <img alt="Terminal: disclosures in the last two weeks" width="100%" src="assets/security-light.svg">
+  <img alt="Terminal: security disclosures summary" width="100%" src="assets/security-light.svg">
 </picture>
 
-<sub>Found and privately reported critical vulnerabilities in 10+ apps and websites in two weeks, including exposed customer PII, refunds triggerable on other customers' orders, and unlocking electric bikes without access. All disclosed responsibly and fixed; several rewarded with bug bounties and recognised by founders and leadership.</sub>
+<sub>Found and privately reported critical vulnerabilities in 10+ apps and websites, including exposed customer PII, refunds triggerable on other customers' orders, and unlocking electric bikes without access. All disclosed responsibly and fixed; several rewarded with bug bounties and recognised by founders and leadership.</sub>
 
 <p align="center">
 <picture>
