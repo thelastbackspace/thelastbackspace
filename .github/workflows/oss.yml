@@ -17,12 +17,12 @@ jobs:
       - name: Update README
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: bash scripts/update-oss.sh
+        run: bash scripts/update-oss.sh && python3 scripts/stats.py
       - name: Commit
         run: |
-          if ! git diff --quiet README.md; then
+          if ! git diff --quiet README.md assets; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git commit -am "Update merged open source PRs"
+            git add README.md assets && git commit -m "Update merged PRs and stats"
             git push
           fi

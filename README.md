@@ -48,12 +48,6 @@ Found and privately reported critical vulnerabilities in **10+ apps and websites
 | **[XMobility](https://xmobility.ai)** | AI suite for global mobility, visa to payroll: Immigration, EOR, HRMS and Payroll on one shared record. A no-code workflow engine runs any visa or process in any country, an AI agent reads documents and fills forms, and an MCP server lets users manage cases from Claude. Live with paying customers. |
 | **[Crawlfox](https://crawlfox.io)** | Web scraping product with real users. Shipped in 3 months, 90%+ success rate. |
 
-<p>
-<a href="https://github.com/thelastbackspace/cursor-auto-resume"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=thelastbackspace&repo=cursor-auto-resume&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9"><img width="49%" alt="cursor-auto-resume" src="https://github-readme-stats.vercel.app/api/pin/?username=thelastbackspace&repo=cursor-auto-resume&hide_border=true&title_color=2ea043&icon_color=2ea043"></picture></a>
-<a href="https://github.com/thelastbackspace/traceperf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=thelastbackspace&repo=traceperf&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9"><img width="49%" alt="traceperf" src="https://github-readme-stats.vercel.app/api/pin/?username=thelastbackspace&repo=traceperf&hide_border=true&title_color=2ea043&icon_color=2ea043"></picture></a>
-<a href="https://github.com/d3vx-com/d3vx"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=d3vx-com&repo=d3vx&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9"><img width="49%" alt="d3vx" src="https://github-readme-stats.vercel.app/api/pin/?username=d3vx-com&repo=d3vx&hide_border=true&title_color=2ea043&icon_color=2ea043"></picture></a>
-<a href="https://github.com/thelastbackspace/zig-npm-ports"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=thelastbackspace&repo=zig-npm-ports&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9"><img width="49%" alt="zig-npm-ports" src="https://github-readme-stats.vercel.app/api/pin/?username=thelastbackspace&repo=zig-npm-ports&hide_border=true&title_color=2ea043&icon_color=2ea043"></picture></a>
-</p>
 
 ---
 
@@ -96,16 +90,8 @@ Design systems · Product strategy · User research · AI agents and MCP · Clau
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thelastbackspace&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thelastbackspace&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2ea043&icon_color=2ea043">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thelastbackspace&hide_border=true&background=0D1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
-  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=thelastbackspace&hide_border=true&ring=2ea043&fire=2ea043&currStreakLabel=2ea043">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastbackspace&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastbackspace&layout=compact&hide_border=true&langs_count=8&title_color=2ea043">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="GitHub stats" width="100%" src="assets/stats-light.svg">
 </picture>
 
 <picture>
