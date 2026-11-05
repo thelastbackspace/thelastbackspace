@@ -12,7 +12,6 @@ I take products from a blank Figma file to production, find security holes befor
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhwadekar1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thelastbackspace)
 [![XMobility](https://img.shields.io/badge/XMobility.ai-111111?style=for-the-badge&logo=rocket&logoColor=white)](https://xmobility.ai)
-[![Crawlfox](https://img.shields.io/badge/Crawlfox.io-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://crawlfox.io)
 
 </div>
 
@@ -42,7 +41,7 @@ Found and privately reported critical vulnerabilities in **10+ apps and websites
 | Project | What it does | Stack |
 |---|---|---|
 | 🌐 **[XMobility](https://xmobility.ai)** | AI suite for global mobility, visa to payroll: Immigration, EOR, HRMS and Payroll on one shared record. A no-code workflow engine runs any visa or process in any country, an AI agent reads documents and fills forms, and an MCP server lets users manage cases from Claude. **Live with paying customers.** | TypeScript, AI, MCP |
-| 🦊 **[Crawlfox](https://crawlfox.io)** | Web scraping product with real users, built on custom browsers for speed and scale. Shipped in 3 months, **90%+ success rate**. | Custom browsers |
+| 🦊 **[Crawlfox](https://crawlfox.io)** | Web scraping product with real users. Shipped in 3 months, **90%+ success rate**. | TypeScript |
 | 🤖 **[cursor-auto-resume](https://github.com/thelastbackspace/cursor-auto-resume)** ![stars](https://img.shields.io/github/stars/thelastbackspace/cursor-auto-resume?style=flat-square&label=%E2%98%85&color=0e75b6) | First open-source tool to handle Cursor IDE rate limits automatically. Found the DOM triggers by digging into the VS Code fork. | JavaScript |
 | 📊 **[traceperf](https://github.com/thelastbackspace/traceperf)** ![stars](https://img.shields.io/github/stars/thelastbackspace/traceperf?style=flat-square&label=%E2%98%85&color=0e75b6) | Console performance tracking for Node.js: ASCII execution flows, bottleneck detection, structured logs. | TypeScript |
 | ⚡ **[d3vx](https://github.com/d3vx-com/d3vx)** | AI-assisted terminal with isolated background tasks, parallel agent orchestration and a 7-phase pipeline. | Rust, Tauri |
