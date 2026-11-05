@@ -134,12 +134,12 @@ def card(t, c):
              f'stroke="{t["acc"]}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>')
     o.append(f'<text class="s" x="34" y="116" font-size="36" font-weight="700" letter-spacing="-.5" '
              f'fill="{t["text"]}">{esc(c["name"])}</text>')
-    o.append(f'<text class="m" x="36" y="144" font-size="15" fill="{t["acc_text"]}">{esc(c["url"])}</text>')
+    o.append(f'<text class="m" x="36" y="146" font-size="18" fill="{t["acc_text"]}">{esc(c["url"])}</text>')
     for i, line in enumerate(c["desc"]):
-        o.append(f'<text class="s" x="36" y="{186 + i * 25}" font-size="17" fill="{t["muted"]}">{esc(line)}</text>')
+        o.append(f'<text class="s" x="36" y="{190 + i * 26}" font-size="19" fill="{t["muted"]}">{esc(line)}</text>')
     x = 36
     for p in c["pills"]:
-        pw, s = pill(t, x, 240, p)
+        pw, s = pill(t, x, 242, p, size=16)
         o.append(s)
         x += pw + 10
     return o
