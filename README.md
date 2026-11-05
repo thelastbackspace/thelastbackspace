@@ -78,8 +78,8 @@ B.Tech, Information Technology · SRM University (2015 – 2019)
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,ts,react,nextjs,nodejs,rust,go,python,zig,mongodb,postgres,docker,tauri&theme=dark&perline=13">
-    <img alt="Figma, TypeScript, React, Next.js, Node.js, Rust, Go, Python, Zig, MongoDB, Postgres, Docker, Tauri" src="https://skillicons.dev/icons?i=figma,ts,react,nextjs,nodejs,rust,go,python,zig,mongodb,postgres,docker,tauri&theme=light&perline=13">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
+    <img alt="Figma, TypeScript, React, Next.js, Node.js, Rust, Go, Python, Zig, MongoDB, Postgres, Docker, Tauri" width="100%" src="assets/skills-light.svg">
   </picture>
 </p>
 
