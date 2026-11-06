@@ -43,12 +43,12 @@ I take products from a blank Figma file to production, find security holes befor
 I fix real, reported bugs in projects people depend on, with a regression test for every change.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg?v=20261105b">
-  <img alt="Merged open source contributions, with project, stars, pull request title and merge date" width="100%" src="assets/contrib-light.svg?v=20261105b">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg?v=20261106">
+  <img alt="Merged open source contributions, with project, stars, pull request title and merge date" width="100%" src="assets/contrib-light.svg?v=20261106">
 </picture>
 
 <!-- PRLINKS:START -->
-<sub><a href="https://github.com/QwikDev/qwik/pull/9378">QwikDev/qwik#9378</a> · <a href="https://github.com/oxigraph/oxigraph/pull/2023">oxigraph/oxigraph#2023</a> · <a href="https://github.com/dora-rs/dora/pull/4055">dora-rs/dora#4055</a> · <a href="https://github.com/tursodatabase/turso/pull/11412">tursodatabase/turso#11412</a></sub>
+<sub><a href="https://github.com/version-fox/vfox/pull/748">version-fox/vfox#748</a> · <a href="https://github.com/zerobrewhq/zerobrew/pull/495">zerobrewhq/zerobrew#495</a> · <a href="https://github.com/QwikDev/qwik/pull/9378">QwikDev/qwik#9378</a> · <a href="https://github.com/oxigraph/oxigraph/pull/2023">oxigraph/oxigraph#2023</a> · <a href="https://github.com/dora-rs/dora/pull/4055">dora-rs/dora#4055</a> · <a href="https://github.com/tursodatabase/turso/pull/11412">tursodatabase/turso#11412</a></sub>
 <!-- PRLINKS:END -->
 
 <sub>More on the way · <a href="https://github.com/search?q=author%3Athelastbackspace+is%3Apr+-user%3Athelastbackspace+-org%3AXmobility-ai&type=pullrequests">All my pull requests</a></sub>
@@ -153,8 +153,8 @@ Design systems · Product strategy · User research · AI agents and MCP · Clau
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=20261105b">
-  <img alt="GitHub stats: contributions, stars, repos, pull requests, merged in other projects" width="100%" src="assets/stats-light.svg?v=20261105b">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=20261106">
+  <img alt="GitHub stats: contributions, stars, repos, pull requests, merged in other projects" width="100%" src="assets/stats-light.svg?v=20261106">
 </picture>
 
 <picture>
