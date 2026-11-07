@@ -115,9 +115,10 @@ def repo_info(p):
 
 
 HIDE = {"dj-bolt/django-bolt"}  # merged, but kept off the profile on purpose
+PIN_ORGS = {"microsoft"}  # well-known orgs shown first, then everything else by stars
 MIN_STARS = 100  # leave tiny repos off the cards; they still count in the merged total
 _pairs = [(p, repo_info(p)) for p in prs]
-_pairs = sorted((x for x in _pairs if x[1]["stars"] >= MIN_STARS and x[1]["repo"] not in HIDE), key=lambda x: -x[1]["stars"])
+_pairs = sorted((x for x in _pairs if x[1]["stars"] >= MIN_STARS and x[1]["repo"] not in HIDE), key=lambda x: (x[1]["repo"].split("/")[0].lower() not in PIN_ORGS, -x[1]["stars"]))
 prs = [p for p, _ in _pairs]
 INFO = [i for _, i in _pairs]
 
