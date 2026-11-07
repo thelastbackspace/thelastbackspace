@@ -23,9 +23,9 @@ d = gh(["graphql", "-f", f"query={Q}", "-f", f"u={USER}"])["data"]["user"]
 cal = d["contributionsCollection"]["contributionCalendar"]
 weeks = [sum(x["contributionCount"] for x in wk["contributionDays"]) for wk in cal["weeks"]][-52:]
 stars = sum(n["stargazerCount"] for n in d["repositories"]["nodes"])
-search = gh(["-X", "GET", "search/issues", "-f", f"q={SEARCH}", "-f", "sort=updated", "-f", "per_page=20"])
+search = gh(["-X", "GET", "search/issues", "-f", f"q={SEARCH}", "-f", "sort=updated", "-f", "per_page=100"])
 merged = search["total_count"]
-prs = sorted(search["items"], key=lambda i: i.get("closed_at") or "", reverse=True)[:12]
+prs = sorted(search["items"], key=lambda i: i.get("closed_at") or "", reverse=True)[:60]
 
 hero = ("Contributions (1y)", cal["totalContributions"])
 items = [
