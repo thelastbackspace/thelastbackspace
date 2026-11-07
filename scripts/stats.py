@@ -114,7 +114,11 @@ def repo_info(p):
     return dict(repo=f"{owner}/{name}", stars=r.get("stargazers_count", 0), img=img)
 
 
-INFO = [repo_info(p) for p in prs]
+MIN_STARS = 100  # leave tiny repos off the cards; they still count in the merged total
+_pairs = [(p, repo_info(p)) for p in prs]
+_pairs = sorted((x for x in _pairs if x[1]["stars"] >= MIN_STARS), key=lambda x: -x[1]["stars"])
+prs = [p for p, _ in _pairs]
+INFO = [i for _, i in _pairs]
 
 
 def stars_fmt(n):
